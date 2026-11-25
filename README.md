@@ -1,5 +1,5 @@
 - nom : Briard
-- prénom : Loan
+- prénom : loan
 - URL Netlify :
 
 # Travail
